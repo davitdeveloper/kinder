@@ -1,0 +1,11 @@
+/node_modules
+/vendor
+.idea/workspace.xml
+.env.backup
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+webpack.mix.js
