@@ -23,7 +23,7 @@
         "@toast-ui/vue-editor": "^1.1.1",
         "form-data-to-object": "^0.2.0",
         "lodash": "^4.17.15",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "node-sass": "^4.13.1",
         "npm-watch": "^0.6.0",
         "v-mask": "^2.0.2",
